@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "backend": "https://github.com/Philwi/concerts-rails",
+    "mobile_client": "https://github.com/Philwi/concert_connect_mobile"
+  }
+}
